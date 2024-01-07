@@ -125,9 +125,9 @@ class ParseWB:
 from telegram import Bot, InputFile
 
 # Замените 'YOUR_BOT_TOKEN' на ваш токен бота
-BOT_TOKEN = '6755351392:AAFix7_Zp_MV-Kf5r1HiiP4iz1O3oNUviG4'
+BOT_TOKEN = ''
 # Замените 'CHAT_ID' на ID вашего чата в Телеграме
-CHAT_ID = '1773749419'
+CHAT_ID = ''
 
 # Путь к вашему файлу после парсинга
 parsed_file_path = '~/Downloads/name/wildberries_parser-master/wb_data.csv'
